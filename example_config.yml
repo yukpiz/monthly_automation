@@ -1,0 +1,6 @@
+recoru_config:
+  login_url: "https://app.recoru.in/ap/"
+  home_url: "https://app.recoru.in/ap/home/"
+  contract_id: "xxxxxxxxxxxxxxx"
+  login_id: "xxxxxxxxxxxxxxxx"
+  login_password: "xxxxxxxxxxxxxx"
